@@ -1,0 +1,22 @@
+/* Herlper from youtube video: https://www.youtube.com/watch?v=no-Ntkc836w    */
+.darkBG{
+    background: #999;
+}
+
+.darkerBG{
+    background: #666;
+}
+
+.darkestBG{
+    background: #333;
+}    
+
+.takColor{
+    background: #F2DEDE;
+    font-family: "Agency FB";
+}    
+
+#takID{
+    background: #F2DEDE;
+    font-family: "Agency FB";
+}    
