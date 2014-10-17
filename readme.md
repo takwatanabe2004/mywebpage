@@ -6,9 +6,9 @@
 while balancing  with research and TA duties....tough times but refreshingly fun!
 
 ## Got the following domain names
-[takwatanabe.me]()  
-[www.takwatanabe.me]()    
-[web.takwatanabe.me]()     
-[takwatanabe.info]()  
-[www.takwatanabe.info]()    
-[web.takwatanabe.info]()    
+<a href="http://takwatanabe.me" target="_blank">takwatanabe.me</a>  
+<a href="http://takwatanabe.info" target="_blank">takwatanabe.info</a>  
+<a href="http://www.takwatanabe.me" target="_blank">www.takwatanabe.me</a>  
+<a href="http://www.takwatanabe.info" target="_blank">www.takwatanabe.info</a>  
+<a href="http://web.takwatanabe.me" target="_blank">web.takwatanabe.me</a>  
+<a href="http://web.takwatanabe.info" target="_blank">web.takwatanabe.info</a>  
