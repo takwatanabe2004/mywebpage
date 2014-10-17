@@ -1,4 +1,4 @@
 <hr>
- <small>Copyright 2008 My Site</small><br>
+    <small>&copy; 2014 Takanori Watanabe</small><br>
  </body>
  </html>
