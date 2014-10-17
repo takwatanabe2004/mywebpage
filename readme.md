@@ -2,6 +2,8 @@
 
 - **Why?** -- since the current webpage layout looks boring.
 - Still in rough development stage...
+    - <a href="http://web.eecs.umich.edu/~takanori/index-new.html" target="_blank">Layout Candidate 1</a>  
+    - <a href="http://web.eecs.umich.edu/~takanori/index-new-ver2.html" target="_blank">Layout Candidate 2</a>  
 - Trying to learn bunch of new stuffs (javascript jquery d3 php...)
 while balancing  with research and TA duties....tough times but refreshingly fun!
 
