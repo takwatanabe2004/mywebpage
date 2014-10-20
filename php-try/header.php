@@ -6,5 +6,5 @@
  <ul>
      <li> Choice 1</li>
      <li> Choice 2</li>
-     <li> Choice 3</li>
+     <li> Choice 2b</li>
  <hr>
