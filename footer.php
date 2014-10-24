@@ -24,7 +24,7 @@
                     </li>                        
                     <li>
                         <a href="mailto:takanori@umich.edu" target="_top" >
-                            <img title="takanori@umich.edu" src="img/social-media-icon/email.png" height="30" />
+                            <img title="takanori@umich.edu" src="./img/social-media-icon/email.png" height="30" />
                         </a>
                     </li>
                 </ul>    
