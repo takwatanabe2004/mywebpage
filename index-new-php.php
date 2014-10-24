@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-    <script>$(".nav.navbar-nav li:eq(1)").addClass("active");</script>
+    <script>$(".nav.navbar-nav li:eq(0)").addClass("active");</script>
 
     <h1>About me</h1>
     <p class="lead">
