@@ -27,7 +27,14 @@ ul.social li{
     margin-left: -0px;
     margin-right: -0px;
 }
-
+ul.my-social li{
+    float: right;
+/*    position:relative;
+    top:-50px;*/
+    margin-left: -0px;
+    margin-right: -0px;
+    display: inline;
+}
 /*ul.social li:first-child {
 	margin-left: 0;
 }
@@ -35,6 +42,7 @@ ul.social li{
 ul.social li{
     position: relative;
     top: -10px;
+    display: inline;
 }
 
 .nav>li>a{

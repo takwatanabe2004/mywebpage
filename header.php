@@ -15,7 +15,7 @@
 
         <!--my (tak) stylesheet-->
         <link rel="stylesheet" type="text/css" href="tak_bootstrap.css" />
-        <link rel="stylesheet" type="text/css" href="justified-nav..css" />
+        <link rel="stylesheet" type="text/css" href="justified-nav.css" />
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
@@ -79,6 +79,50 @@
         </div>
         <!-- end navbar div -->
         
+
+    <div class="container">
+        <div class="header" >
+            <h3 class="text-muted">Takanori Watanabe</h3>
+                <ul class="nav navbar-collapse collapse my-social">
+                    <li>
+                        <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank" >
+                            <img title="Google Scholar" src="img/social-media-icon/google-scholar.jpg" height="30" />
+                        </a>
+                    </li>                        
+                    <li>
+                        <a href="http://www.linkedin.com/pub/takanori-watanabe/9b/588/355" target="_blank" >
+                            <img title="Linkedin" src="img/social-media-icon/linkedin.png" height="30" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/takwatanabe2004" target="_blank" >
+                            <img title="Github" src="img/social-media-icon/GitHub-Mark-120px-plus.png" height="30" />
+                        </a>
+                    </li>
+                    <li>
+<!--                        <a href="https://www.facebook.com/takanori.watanabe.23" target="_blank" >
+                            <img title="Facebook" src="img/social-media-icon/facebook.png" height="30" />
+                        </a>-->
+                    </li>                        
+                    <li>
+                        <a href="mailto:takanori@umich.edu" target="_top" >
+                            <img title="takanori@umich.edu" src="./img/social-media-icon/email.png" height="30" />
+                        </a>
+                    </li>
+                </ul>                    
+        </div>
+            
+      <div class="masthead">
+        <ul class="nav nav-justified">
+          <li class="active"><a href="#">Home</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Downloads</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
         <!-- Begin main container -->
         <div class="container">
             <div class="tak-main-body">
