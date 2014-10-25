@@ -83,7 +83,7 @@ ul.social li{
   padding-bottom: 0px;
   text-align: justify;
   position: relative;
-  top: -20px;
+  top: -10px;
 }
 div.navbar.navbar-inverse.navbar-top{
   border-radius: 10px;
@@ -138,4 +138,9 @@ div.header{
 .my-proj-name{
     position: relative;
     top:50px;
+}
+
+div.header{
+    position:relative;
+    top:-40px;
 }

@@ -1,6 +1,7 @@
 <?php include('header.php'); ?>
 
-<script>$(".nav.navbar-nav li:eq(3)").addClass("active");</script>
+<!--<script>$(".nav.navbar-nav li:eq(3)").addClass("active");</script>-->
+<script>$("ul.nav.nav-justified li:eq(3)").addClass("active");</script>
 
 <h2>Completed Coursework</h2>
 <ul>
