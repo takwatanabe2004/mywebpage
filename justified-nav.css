@@ -43,6 +43,7 @@ body {
   background-repeat: repeat-x; /* Repeat the gradient */
   border-bottom: 1px solid #d5d5d5;
 }
+.nav-justified a:hover,
 .nav-justified > .active > a,
 .nav-justified > .active > a:hover,
 .nav-justified > .active > a:focus {

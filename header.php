@@ -26,3 +26,16 @@
         
         <?php // include('navbar-white.php'); ?>
         <?php include('navbar-black.php'); ?>
+
+<!--        <script>
+            $(document).ready(function(){
+                $('#tak-nav-bar>li').hover(
+                    function(){
+                        $(this).addClass('active');
+                    },
+                    function(){
+                        $(this).removeClass('active');
+                    }
+                );
+            });
+        </script>-->
