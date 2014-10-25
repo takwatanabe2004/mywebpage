@@ -1,11 +1,17 @@
 <?php include('header.php'); ?>
 
     <script>$(".nav.navbar-nav li:eq(0)").addClass("active");</script>
-
-    <h1>About me</h1>
-    <p class="lead">
-        I am a Ph.D. candidate at the <a href="http://www.umich.edu" target="_blank">University of Michigan</a> majoring in ...
-        Machine learning etc...
+<!--<img src="..." alt="..." class="img-circle">-->
+    <img src="img/profile.jpg" alt="Tak Watanabe" class="img-circle pull-left" width="150px" align="left" style="margin-right: 20px">
+    <h2>About me</h2>
+    <p>
+        I am a PhD candidate in the <a href="http://www.eecs.umich.edu/" target="_blank" >EECS department</a> at the <a href="http://www.umich.edu" target="_blank">University of Michigan</a> where I research on biomedical application for machine learning.  My research advisor is Professor <a href="http://web.eecs.umich.edu/~cscott/" target="blank">Clayton Scott</a>.
+        My research focuses on Machine Learning.
+        I am particularly interested in ...
+        For more information...
+        Rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble.  
+        Rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble.  
+        Rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble rabble.  
     </p>
     <hr/>
     <h1>ToDo...</h1>

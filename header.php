@@ -12,10 +12,9 @@
 
         <!-- Bootstrap core CSS -->
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
-        <link href="starter-template.css" rel="stylesheet">
 
         <!--my (tak) stylesheet-->
-        <link href="tak-ver2.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="tak_bootstrap.css" />
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
@@ -33,7 +32,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="">Welcome to my webpage</a>
+                    <a class="navbar-brand">Takanori Watanabe</a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">

@@ -1,7 +1,7 @@
                 <div class="tak-footer-p">&copy; Takanori Watanabe 2014
                 <!--!!! TODO: too much horizontal spacing - fix later!!! -->
                 <!-- Replaced this with social media icons -->
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-right social">
                     <li>
                         <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank" >
                             <img title="Google Scholar" src="img/social-media-icon/google-scholar.jpg" height="30" />
@@ -18,9 +18,9 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/takanori.watanabe.23" target="_blank" >
+<!--                        <a href="https://www.facebook.com/takanori.watanabe.23" target="_blank" >
                             <img title="Facebook" src="img/social-media-icon/facebook.png" height="30" />
-                        </a>
+                        </a>-->
                     </li>                        
                     <li>
                         <a href="mailto:takanori@umich.edu" target="_top" >
