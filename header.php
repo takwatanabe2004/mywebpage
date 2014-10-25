@@ -70,6 +70,7 @@
                         <li><a href="index-new-php.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
                         <li><a href="research.php">Research</a></li>
+                        <li><a href="contact.php">Contact Info</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>

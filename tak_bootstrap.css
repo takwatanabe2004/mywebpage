@@ -30,9 +30,14 @@ ul.social li{
 /*ul.social li:first-child {
 	margin-left: 0;
 }
-*/ul.social li{
+*/
+ul.social li{
     position: relative;
     top: -10px;
+}
+
+.nav>li>a{
+    padding: 10px;
 }
 
 
@@ -72,9 +77,37 @@ ul.social li{
   top: -20px;
 }
 div.navbar.navbar-inverse.navbar-top{
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 ul.nav.navbar-nav{
-    font-size: 16px;
+    font-size: 18px;
+}
+
+@media (min-width: 300px) {
+  .navbar-nav {
+    float: left;
+    margin: 0;
+  }
+  .navbar-nav > li {
+    float: left;
+  }
+  .navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .navbar-nav.navbar-right:last-child {
+    margin-right: -15px;
+  }
+}
+
+mark {
+  color: #000;
+  background: yellow;
+}
+
+.my-contact-info{
+  margin: 0pt;
+  margin-left:-20px;
+  list-style-type: none;
 }
