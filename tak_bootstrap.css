@@ -134,3 +134,8 @@ mark {
 div.header{
     margin-left: 5px;
 }
+
+.my-proj-name{
+    position: relative;
+    top:50px;
+}

@@ -1,6 +1,7 @@
 <?php include('header.php'); ?>
 
     <script>$(".nav.navbar-nav li:eq(0)").addClass("active");</script>
+    <script>$("ul.nav.nav-justified li:eq(0)").addClass("active");</script>
     
     <h1>Under Construction...</h1>
 <!--<img src="..." alt="..." class="img-circle">-->

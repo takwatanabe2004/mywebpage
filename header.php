@@ -82,7 +82,7 @@
 
     <div class="container">
         <div class="header" >
-            <h3 class="text-muted">Takanori Watanabe</h3>
+            <h3 class="text-muted my-proj-name">Takanori Watanabe</h3>
                 <ul class="nav navbar-collapse collapse my-social">
                     <li>
                         <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank" >
@@ -114,12 +114,11 @@
             
       <div class="masthead">
         <ul class="nav nav-justified">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">Projects</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Downloads</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
+            <li><a href="index-new-php.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="research.php">Research</a></li>
+            <li><a href="courses.php">Courses</a></li>
+            <li><a href="contact.php">Contact Info</a></li>
         </ul>
       </div>
     </div>
