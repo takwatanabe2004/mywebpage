@@ -1,12 +1,13 @@
 <?php include('header.php'); ?>
 
+<script>$("#tak-nav-bar>.contact").addClass("active");</script>
 <!--<script>$(".nav.navbar-nav li:eq(4)").addClass("active");</script>-->
-<script>$("ul.nav.nav-justified li:eq(4)").addClass("active");</script>
+<!--<script>$("ul.nav.nav-justified li:eq(4)").addClass("active");</script>-->
 
 <h3>Contact</h3>
     <ul class="my-contact-info">
         <li><strong>Graduate Student</strong></li>
-    <li><strong>Electrical Engineering and Computer Science Depeartment</strong></li>
+    <li><strong>Electrical Engineering and Computer Science Department</strong></li>
     <li><strong>University of Michigan &mdash; Ann Arbor</strong></li>        
     <br/>
       <li><strong>Email address:</strong><a href="mailto:takanori@umich.edu"> takanori@umich.edu</a><br> </li>

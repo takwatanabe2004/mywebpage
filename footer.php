@@ -1,4 +1,4 @@
-                <hr/>
+                <!--<hr/>-->
                 <div class="tak-footer">&copy; Takanori Watanabe 2014
                 <!--!!! TODO: too much horizontal spacing - fix later!!! -->
                 <!-- Replaced this with social media icons -->

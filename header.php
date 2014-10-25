@@ -24,13 +24,5 @@
     <body>
     <div class="container">
         
-        <?php include('navbar-white.php'); ?>
-        <?php // include('navbar-black.php'); ?>
-        
-
-
-
-        <!-- Begin main container -->
-        <div class="container">
-            <div class="tak-main-body">
-             
+        <?php // include('navbar-white.php'); ?>
+        <?php include('navbar-black.php'); ?>
