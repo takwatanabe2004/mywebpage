@@ -15,6 +15,7 @@
 
         <!--my (tak) stylesheet-->
         <link rel="stylesheet" type="text/css" href="tak_bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="justified-nav..css" />
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
@@ -23,7 +24,7 @@
     
     <body>
     <div class="container">
-      <div class="header">
+      <div class="header" >
                 <ul class="nav navbar-right social pull-right  navbar-collapse collapse">
                     <li>
                         <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank" >
@@ -70,6 +71,7 @@
                         <li><a href="index-new-php.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
                         <li><a href="research.php">Research</a></li>
+                        <li><a href="courses.php">Courses</a></li>
                         <li><a href="contact.php">Contact Info</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
