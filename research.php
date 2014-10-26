@@ -42,7 +42,7 @@
     <li>
         <b>T. Watanabe</b>, C. Scott, D. Kessler,  M. Angstadt, C. Sripada, 
         ``<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6854753&searchWithin%3DScalable+Fused+Lasso+SVM+for+Connectome-based+Disease+Classification%26sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6853544%29">Scalable Fused Lasso SVM for Connectome-based Disease Classification</a>,''
-        <a href="http://www.icassp2014.org/home.html"><em>IEEE International Conference on Acoustics, Speech, and Signal Processing</em> (ICASSP)</a>, pp. 6030-6034, Florence, Italy, May 2014.
+        <a href="http://www.icassp2014.org/home.html"><em>IEEE International Conference on Acoustics, Speech, and Signal Processing</em> (ICASSP)</a>, Florence, Italy, May 2014.
     </li>
     <li>
         C. Sripada, D. Kessler, <b>T. Watanabe</b>, R. Welsh, Y. Fang, M. Angstadt, S. Taylor, C. Scott, 

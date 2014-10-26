@@ -6,10 +6,10 @@
                     <!--<li><a href="https://www.facebook.com/takanori.watanabe.23" target="_blank" ><img title="Facebook" src="img/social-media-icon/facebook.png" height="30" /></a></li>-->                        
                     <li><a href="mailto:takanori@umich.edu" target="_top" ><img title="takanori@umich.edu" src="./img/social-media-icon/email.png" height="30" /></a></li>
                 </ul>              
-        <h3 class="text-muted">Takanori Watanabe</h3>
+        <h3 class="text-muted" style="font-size:200%">Takanori Watanabe</h3>
       </div>
         <!-- begin navbar div -->
-        <div class="navbar navbar-inverse navbar-top" role="navigation" style="position:relatve; top:-30px;">
+        <div class="navbar navbar-inverse navbar-top" role="navigation" style="position:relatve; top:-45px;">
 <!--            <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,4 +36,4 @@
         
         <!-- Begin main container -->
         <div class="container">
-            <div class="tak-main-body" style="position: relative; top:-40px">
+            <div class="tak-main-body" style="position: relative; top:-70px">

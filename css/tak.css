@@ -128,7 +128,7 @@ mark {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 900px;
+    max-width: 920px;
   }
 }
 .container-narrow > hr {
