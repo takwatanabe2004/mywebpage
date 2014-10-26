@@ -13,8 +13,8 @@
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
 
         <!--my (tak) stylesheet-->
-        <link rel="stylesheet" type="text/css" href="css/tak.css" />
         <link rel="stylesheet" type="text/css" href="css/justified-nav.css" />
+        <link rel="stylesheet" type="text/css" href="css/tak.css" />
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    

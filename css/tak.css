@@ -29,8 +29,8 @@ body {
     border: 0px;
     /*background:#BEC3C6 url(../img/bg.jpg) repeat-x;*/
     background: white;
-    /*padding: 0px 0px 0px 0px;*/
-    width:940px; /* should match "max-wdith" in .container (should learn sass in the future)... */
+    padding: 30px 0px 0px 0px;
+    width:960px; /* should match "max-wdith" in .container (should learn sass in the future)... */
     /*height: 600px;  optional */
     margin: 0 auto;
     /*background: #fff url(path to non-tiled image) no-repeat center scroll;  optional*/ 
@@ -38,18 +38,16 @@ body {
 }
 
 .tak-header {
-  margin-left: 15px;
-  margin-right: 15px;  
+  margin-left:  30px;
+  margin-right: 40px;  
 }
 
 .tak-main-body {
   /*padding: -10px 15px;*/
-  padding-top: 0px;
-  padding-bottom: 0px;
-  padding-right:20px;
+  padding: 0 20px 0 0px;
   text-align: justify;
-  margin-left: 10px;
-  margin-right: 10px;  
+  margin-left:  25px;
+  margin-right: 35px;  
 }
 
 html { 
@@ -161,7 +159,7 @@ mark {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 940px;
+    max-width: 980px;
   }
 }
 .container-narrow > hr {
