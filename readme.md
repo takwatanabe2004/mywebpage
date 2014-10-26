@@ -1,4 +1,5 @@
-# My Personal Webpage
+# My Personal Webpage 
+http://takwatanabe.me
 
 - **Why?** &mdash; since the <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">old layout</a> of my webpage looked boring.
 - wanted to pick up on the likes of jquery and php
