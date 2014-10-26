@@ -31,4 +31,6 @@
     <h2>Research tricks</h2>
     <h3>Note taking strategy</h3>
     <h3>AHK</h3>  
+    
+    (<a href="index.html" target="_blank">Old website</a>)
 <?php include('php-parts/footer.php'); ?>

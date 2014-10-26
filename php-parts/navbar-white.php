@@ -12,7 +12,7 @@
 
     <div class="masthead">
         <ul class="nav nav-justified" id="tak-nav-bar">
-            <li class="home"><a href="index-new-php.php">Home</a></li>
+            <li class="home"><a href="index.php">Home</a></li>
             <!--<li class="about"><a href="about.php">About</a></li>-->
             <li class="research"><a href="research.php">Research</a></li>
             <li class="courses"><a href="courses.php">Courses</a></li>
