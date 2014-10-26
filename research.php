@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('php-parts/header.php'); ?>
 
 <script>$("#tak-nav-bar>.research").addClass("active");</script>
 <!--<script>$(".nav.navbar-nav li:eq(2)").addClass("active");</script>-->
@@ -38,4 +38,4 @@
     <li><em>Michigan Student Symposium for Interdisciplinary Statistical Sciences</em>, University of Michigan, Ann Arbor, MI, April 6, 2012.
 </ul>
 
-<?php include('footer.php'); ?>
+<?php include('php-parts/footer.php'); ?>

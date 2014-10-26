@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('php-parts/header.php'); ?>
 
     <script>$("#tak-nav-bar>.home").addClass("active");</script>
     <!--<script>$(".nav.navbar-nav li:eq(0)").addClass("active");</script>-->
@@ -31,4 +31,4 @@
     <h2>Research tricks</h2>
     <h3>Note taking strategy</h3>
     <h3>AHK</h3>  
-<?php include('footer.php'); ?>
+<?php include('php-parts/footer.php'); ?>

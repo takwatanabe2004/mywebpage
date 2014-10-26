@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('php-parts/header.php'); ?>
 
 <script>$("#tak-nav-bar>.contact").addClass("active");</script>
 <!--<script>$(".nav.navbar-nav li:eq(4)").addClass("active");</script>-->
@@ -25,4 +25,4 @@
   <li>Ann Arbor, MI 48109-2122</li>
 </ul>
             
-<?php include('footer.php'); ?>
+<?php include('php-parts/footer.php'); ?>

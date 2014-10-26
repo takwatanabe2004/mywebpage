@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('php-parts/header.php'); ?>
 
 <script>$("#tak-nav-bar>.courses").addClass("active");</script>
 <!--<script>$("ul.nav.nav-justified li:eq(3)").addClass("active");</script>-->
@@ -19,4 +19,4 @@
         <li> STATS 610, Statistical Inference</li>
 </ul>
             
-<?php include('footer.php'); ?>
+<?php include('php-parts/footer.php'); ?>

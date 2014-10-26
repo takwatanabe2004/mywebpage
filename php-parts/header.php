@@ -13,12 +13,12 @@
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
 
         <!--my (tak) stylesheet-->
-        <link rel="stylesheet" type="text/css" href="tak_bootstrap.css" />
-        <link rel="stylesheet" type="text/css" href="justified-nav.css" />
+        <link rel="stylesheet" type="text/css" href="css/tak_bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="css/justified-nav.css" />
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
-        <link rel="icon" href="blockm.gif">
+        <link rel="icon" href="img/blockm.gif">
     </head>
     
     <body>
