@@ -1,5 +1,6 @@
                 <!--<hr/>-->
-                <div class="tak-footer">&copy; Takanori Watanabe 2014</div>            
+                <div class="tak-footer">
+                    <span style="position:relative; top:8px">&copy; Takanori Watanabe 2014</span></div>            
         </div><!-- /.container -->
         
         <!-- Bootstrap core JavaScript -->

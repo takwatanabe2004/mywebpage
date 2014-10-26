@@ -31,6 +31,10 @@
             (<a href="http://www-personal.umich.edu/~mepelman/teaching/IOE611/index.html">course link</a>)</li>   
         <li> STATS 610, Statistical Inference
             (<a href="notes/610notes.pdf">notes</a>)</li>     
+	   <br/>
+        <li> EECS 600, Function Space Methods for Systems Theory 
+            (<a href="notes/600notes.pdf">notes</a>)
+			<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<em>was not formally enrolled for the course</em>)</li>         
 </ul>
            
 <h2>Teaching</h2>
