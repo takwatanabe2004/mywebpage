@@ -16,10 +16,30 @@
     margin-top: 40px;
 }
 
+/* ========================================================================== */
+/* Rounding corners...
+http://stackoverflow.com/questions/10166961/rounding-corners-on-the-background
+*/
+/* ========================================================================== */
 body {
-  padding-top: 10px;
+    border-radius: 20px; /* future proofing */
+    border: 0px;
+    /*background:#BEC3C6 url(../img/bg.jpg) repeat-x;*/
+    background: white;
+    padding: 0px 0px 0px 0px;
+    width:900px; /* should match "max-wdith" in the container waaay...below...should learn sass in the future... */
+    /*height: 600px;  optional */
+    margin: 0 auto;
+    /*background: #fff url(path to non-tiled image) no-repeat center scroll;  optional*/ 
+    /*http://www.webdeveloper.com/forum/showthread.php?250519-Background-Color-outside-body-margin*/
+}
+html { 
+    background:#BEC3C6 url(../img/bg.jpg) repeat-x;
 }
 
+/*div#background{
+ background:white;
+}*/
 
 /*ul.social{
     margin: 0px -10px 0px 0px;

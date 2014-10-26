@@ -4,6 +4,7 @@
                 <!-- Replaced this with social media icons -->
             </div>
         </div><!-- /.container -->
+        
         <!-- Bootstrap core JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
         <script>
@@ -16,5 +17,6 @@
 		  ga('send', 'pageview');
 
         </script>      
+    </div> <!-- For div#background  -->
     </body>
 </html>

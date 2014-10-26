@@ -29,3 +29,4 @@
             <a href="http://matt.might.net/">Matt Might</a></li>
 </ul>
 
+<?php include('php-parts/footer.php'); ?>
