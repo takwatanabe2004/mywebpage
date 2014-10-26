@@ -4,7 +4,31 @@
     $(document).ready(function(){$("#tak-nav-bar>.research").addClass("active");});
     document.title='Research';
 </script>
-
+    <h2>Research &ndash; Machine Learning for Massive Biomedical Data</h2>
+    <div class="row" style="padding-bottom: 0px">
+        
+        <div class="col-md-8" style="padding-top: 10px">     
+            <p>
+                The central theme of my research is to develop computationally tractable machine learning methods 
+                that allow us to extract scientifically meaningful information from massive and highly complex data, 
+                particularly biomedical datasets (e.g., fMRI, DTI, gene microarray) which further tend to be noisy and 
+                limited in sample size. 
+            </p>
+            <p>
+                As many traditional statistical methods break down in such setting, the goal of my research is to: 
+                (1) develop specialized machine learning methods that leverage potential structure in the data, 
+                which can improve predictive power and model interpretability, and 
+                (2) design and implement scalable (numerical) optimization algorithms to address data dimensionality.
+            </p>
+            <p>
+                <!--For additional information about my research, please visit my <a href="research.php">research page</a> for a list of my publications.-->
+            </p>
+        </div>
+        <div class="col-md-4"><img src="img/sparse-brain.png" alt="Brain Connectivity" 
+                                   class="img-rounded pull-left" width="250px" 
+                                   style="position:relative; top:0px;"></div>
+    </div>
+    
 <h2>Publications</h2>
 <ul>
     <li>

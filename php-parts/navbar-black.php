@@ -9,7 +9,7 @@
         <h3 class="text-muted">Takanori Watanabe</h3>
       </div>
         <!-- begin navbar div -->
-        <div class="navbar navbar-inverse navbar-top" role="navigation" style="position:relatve; top:-40px;">
+        <div class="navbar navbar-inverse navbar-top" role="navigation" style="position:relatve; top:-30px;">
 <!--            <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -27,7 +27,7 @@
                         <li class="research"><a href="research.php">Research</a></li>
                         <li class="courses"><a href="courses.php">Courses</a></li>
                         <li class="resources"><a href="resources.php">Resources</a></li>
-                        <li class="contact"><a href="contact.php">Contact Info</a></li>
+                        <!--<li class="contact"><a href="contact.php">Contact Info</a></li>-->
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>
@@ -36,4 +36,4 @@
         
         <!-- Begin main container -->
         <div class="container">
-            <div class="tak-main-body" style="position: relative; top:-50px">
+            <div class="tak-main-body" style="position: relative; top:-40px">
