@@ -36,10 +36,12 @@
     
         </div>
         <div class="col-md-4">
-                <img src="img/profile.jpg" alt="Tak Watanabe" class="img-circle pull-left" width="200px" align="left" style="position:relative; top:30px;">
+                <img src="img/profile.jpg" alt="Tak Watanabe" class="img-circle pull-left" 
+                     width="200px" align="left" style="position:relative; top:30px;">
         </div>
     </div>
-    
+    <br/>
+    <br/>
     <p><font size="3.5"><b><mark>News</mark> &ndash; I am graduating in December of 2014, and am currently looking for a full-time or a post-doc position.</b></font></p>
 <!--<h2>Contact</h2>
     <ul class="my-contact-info">

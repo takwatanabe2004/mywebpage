@@ -1,5 +1,5 @@
       <div class="header" style="margin-top:55px">
-                <ul class="nav navbar-right social pull-right  navbar-collapse collapse">
+                <ul class="nav navbar-right social pull-right ">
                     <li><a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank" ><img title="Google Scholar" src="img/social-media-icon/google-scholar.jpg" height="30" /></a></li>                        
                     <li><a href="http://www.linkedin.com/pub/takanori-watanabe/9b/588/355" target="_blank" ><img title="Linkedin" src="img/social-media-icon/linkedin.png" height="30" /></a></li>
                     <li><a href="https://github.com/takwatanabe2004" target="_blank" ><img title="Github" src="img/social-media-icon/GitHub-Mark-120px-plus.png" height="30" /></a></li>

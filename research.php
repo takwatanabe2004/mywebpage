@@ -4,7 +4,7 @@
     $(document).ready(function(){$("#tak-nav-bar>.research").addClass("active");});
     document.title='Research';
 </script>
-    <h2>Research &ndash; Machine Learning for Massive Biomedical Data</h2>
+    <h2>Research &ndash; Machine Learning on Large Biomedical Data</h2>
     <div class="row" style="padding-bottom: 0px">
         
         <div class="col-md-8" style="padding-top: 10px">     
@@ -66,5 +66,10 @@
 <h2>Research Notes</h2>
 Some snapshots of my <a href="notes/FL-OCP1-Linearized-ADMM.pdf" target="_blank">research notes</a> 
 to give an idea of the way I think.
-
+<!--<h1>h1</h1>
+<h2>h2</h2>
+<h3>h3</h3>
+<h4>h4</h4>
+<h5>h5</h5>
+<h6>h6</h6>-->
 <?php include('php-parts/footer.php'); ?>
