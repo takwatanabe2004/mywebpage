@@ -7,7 +7,7 @@
     <h2>Research &ndash; Machine Learning on Large Biomedical Data</h2>
     <div class="row" style="padding-bottom: 0px">
         
-        <div class="col-md-8" style="padding-top: 10px">     
+        <div class="col-md-8 col-xs-7" style="padding-top: 10px">     
             <p>
                 The central theme of my research is to develop computationally tractable machine learning methods 
                 that allow us to extract scientifically meaningful information from massive and highly complex data, 
@@ -24,7 +24,7 @@
                 <!--For additional information about my research, please visit my <a href="research.php">research page</a> for a list of my publications.-->
             </p>
         </div>
-        <div class="col-md-4"><img src="img/sparse-brain.png" alt="Brain Connectivity" 
+        <div class="col-md-4 col-xs-5"><img src="img/sparse-brain.png" alt="Brain Connectivity" 
                                    class="img-rounded pull-left" width="250px" 
                                    style="position:relative; top:0px;"></div>
     </div>

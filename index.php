@@ -6,7 +6,7 @@
     </script>
     
     <div class="row" style="padding-bottom: 10px">
-        <div class="col-md-8">
+        <div class="col-md-8 col-xs-7">
             <!--<h2>About me</h2>-->
         <p>
             <strong>Graduate Student Research Assistant</strong><br/>
@@ -35,7 +35,7 @@
     </p>-->
     
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-5">
                 <img src="img/profile.jpg" alt="Tak Watanabe" class="img-circle pull-left" 
                      width="200px" align="left" style="position:relative; top:30px;">
         </div>
