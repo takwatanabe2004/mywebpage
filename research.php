@@ -25,7 +25,7 @@
             </p>
         </div>
         <div class="col-md-4 col-xs-5"><img src="img/sparse-brain.png" alt="Brain Connectivity" 
-                                   class="img-rounded pull-left" width="250px" 
+                                   class="img-rounded " width="250px" 
                                    style="position:relative; top:0px;"></div>
     </div>
     

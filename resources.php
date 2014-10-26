@@ -25,7 +25,7 @@
     <li><a href="http://chronicle.com/article/10-Tips-on-How-to-Write-Less/124268" target="_blank">
         10 Tips on How to Write Less Badly</a></li>
     <li><a href="http://matt.might.net/articles/phd-school-in-pictures/" target="_blank">
-        The illustrated guide to a Ph.D.</a> &ndash; immacluately explained in pictures by 
+        The illustrated guide to a Ph.D.</a> &ndash; perfectly explained in pictures by 
             <a href="http://matt.might.net/">Matt Might</a></li>
 </ul>
 
