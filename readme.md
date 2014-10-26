@@ -1,6 +1,7 @@
 # My Personal Webpage
 
-- **Why?** &mdash; since the <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">old layout</a> of my personal webpage looks boring.
+- **Why?** &mdash; since the <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">old layout</a> of my webpage looked boring.
+- wanted to pick up on the likes of jquery and php
 
 ## To do list
 - post more examples of my research notebook to give the viewer an idea of the type of "thinker" I am.
