@@ -6,7 +6,6 @@
 
 <h2>Publications</h2>
 <ul>
-    <li>Boston, USA, September 2014</li>
     <li>
         <b>T. Watanabe</b>, D. Kessler, C. Scott, C. Sripada, ``<a href="http://stmi2014.ece.cornell.edu/program.html">Multisite Disease Classification with Functional Connectomes via Multitask Structured Sparse SVM</a>,''
         <a href="http://stmi2014.ece.cornell.edu/"><em>Sparsity Techniques in Medical Imaging (STMI)</em></a>, Boston, USA, September 2014. [<a href="stmi2014.pdf">Author preprint (.pdf)</a>]
@@ -33,7 +32,7 @@
 
 <h2>Presentations</h2>
 <ul>
-    <li><em>International Workshop on Sparsity Techniques in Medical Imaging</em>, Massachusetts Institute of Technology, Cambridge, MA, September 14, 2014.
+    <li><em>International Workshop on Sparsity Techniques in Medical Imaging</em>, MIT, Cambridge, MA, September 14, 2014.
     <li><em>Workshop on Sensing and Analysis of High-Dimensional Data</em>, Duke University, Durham, NC, July 23-25, 2013.
     <li><em>Workshop on Biomedical Image Registration</em>, Vanderbilt University, Nashville, TN, July 7-8, 2012.
     <li><em>Michigan Student Symposium for Interdisciplinary Statistical Sciences</em>, University of Michigan, Ann Arbor, MI, April 6, 2012.

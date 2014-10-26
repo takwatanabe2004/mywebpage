@@ -23,7 +23,7 @@
                 <div class="container">
                     <ul class="nav navbar-nav" id="tak-nav-bar">
                         <li class="home"><a href="index-new-php.php">Home</a></li>
-                        <li class="about"><a href="about.php">About</a></li>
+                        <!--<li class="about"><a href="about.php">About</a></li>-->
                         <li class="research"><a href="research.php">Research</a></li>
                         <li class="courses"><a href="courses.php">Courses</a></li>
                         <li class="contact"><a href="contact.php">Contact Info</a></li>
@@ -35,4 +35,4 @@
         
         <!-- Begin main container -->
         <div class="container">
-            <div class="tak-main-body" style="position: relative; top:-60px">
+            <div class="tak-main-body" style="position: relative; top:-50px">
