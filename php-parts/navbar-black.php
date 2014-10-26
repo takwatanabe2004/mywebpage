@@ -22,10 +22,11 @@
                 </div>-->
                 <div class="container">
                     <ul class="nav navbar-nav" id="tak-nav-bar">
-                        <li class="home"><a href="index.php">Home</a></li>
+                        <li class="home"><a href="./">Home</a></li>
                         <!--<li class="about"><a href="about.php">About</a></li>-->
                         <li class="research"><a href="research.php">Research</a></li>
                         <li class="courses"><a href="courses.php">Courses</a></li>
+                        <li class="resources"><a href="resources.php">Resources</a></li>
                         <li class="contact"><a href="contact.php">Contact Info</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->

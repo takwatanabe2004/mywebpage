@@ -1,8 +1,9 @@
 <?php include('php-parts/header.php'); ?>
 
-<script>$("#tak-nav-bar>.research").addClass("active");</script>
-<!--<script>$(".nav.navbar-nav li:eq(2)").addClass("active");</script>-->
-<!--<script>$("ul.nav.nav-justified li:eq(2)").addClass("active");</script>-->
+<script>
+    $(document).ready(function(){$("#tak-nav-bar>.research").addClass("active");});
+    document.title='Research';
+</script>
 
 <h2>Publications</h2>
 <ul>

@@ -1,8 +1,9 @@
 <?php include('php-parts/header.php'); ?>
 
-<script>$("#tak-nav-bar>.contact").addClass("active");</script>
-<!--<script>$(".nav.navbar-nav li:eq(4)").addClass("active");</script>-->
-<!--<script>$("ul.nav.nav-justified li:eq(4)").addClass("active");</script>-->
+<script>
+    $(document).ready(function(){$("#tak-nav-bar>.contact").addClass("active");});
+    document.title='Courses';
+</script>
 
 <h2>Contact</h2>
     <ul class="my-contact-info">

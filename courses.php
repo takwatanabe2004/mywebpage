@@ -1,7 +1,9 @@
 <?php include('php-parts/header.php'); ?>
 
-<script>$("#tak-nav-bar>.courses").addClass("active");</script>
-<!--<script>$("ul.nav.nav-justified li:eq(3)").addClass("active");</script>-->
+<script>
+    $(document).ready(function(){$("#tak-nav-bar>.courses").addClass("active");});
+    document.title='Courses';
+</script>
 
 <h2>Completed Coursework</h2>
 <ul style="list-style:none">
@@ -18,5 +20,11 @@
         <li> Math 611, &nbsp;&nbsp; Convex Optimization</li>
         <li> STATS 610, Statistical Inference</li>
 </ul>
-            
+           
+<h2>Teaching</h2>
+<ul style="list-style-type: none">
+    <li>Graduate Student Instructor &ndash; EECS 545 Machine Learning (Graduate Level Course)</li>
+    <li><a href="http://www.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html">Fall 2011</a>, <a href="http://web.eecs.umich.edu/~cscott/eecs545f14/index.html">Fall 2014</a>.</li>
+</ul>
+             
 <?php include('php-parts/footer.php'); ?>
