@@ -1,6 +1,6 @@
 # My Persona/Semi-professional Webpage
 
-- **Why?** &mdash; since the <a href="http://takwatanabe.me" target="_blank">current layout</a> of my personal webpage looks boring.
+- **Why?** &mdash; since the <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">current layout</a> of my personal webpage looks boring.
 - Still in rough development stage...but debating on the following candidates of *html-skeleton*:
     - <a href="http://web.eecs.umich.edu/~takanori/index-new.html" target="_blank">Layout Candidate 1</a>  
     - <a href="http://web.eecs.umich.edu/~takanori/index-new-ver2.html" target="_blank">Layout Candidate 2</a>  
