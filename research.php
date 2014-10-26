@@ -63,4 +63,8 @@
     <li><em>Michigan Student Symposium for Interdisciplinary Statistical Sciences</em>, University of Michigan, Ann Arbor, MI, April 6, 2012.
 </ul>
 
+<h2>Research Notes</h2>
+Some snapshots of my <a href="notes/FL-OCP1-Linearized-ADMM.pdf" target="_blank">research notes</a> 
+to give an idea of the way I think.
+
 <?php include('php-parts/footer.php'); ?>
