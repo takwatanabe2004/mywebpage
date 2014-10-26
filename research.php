@@ -1,9 +1,34 @@
 <?php include('php-parts/header.php'); ?>
 
-<script>$("#tak-nav-bar>.research").addClass("active");</script>
-<!--<script>$(".nav.navbar-nav li:eq(2)").addClass("active");</script>-->
-<!--<script>$("ul.nav.nav-justified li:eq(2)").addClass("active");</script>-->
-
+<script>
+    $(document).ready(function(){$("#tak-nav-bar>.research").addClass("active");});
+    document.title='Research';
+</script>
+    <h2>Research &ndash; Machine Learning on Large Biomedical Data</h2>
+    <div class="row" style="padding-bottom: 0px">
+        
+        <div class="col-md-8 col-xs-7" style="padding-top: 10px">     
+            <p>
+                The central theme of my research is to develop computationally tractable machine learning methods 
+                that allow us to extract scientifically meaningful information from massive and highly complex data, 
+                particularly biomedical datasets (e.g., fMRI, DTI, gene microarray) which further tend to be noisy and 
+                limited in sample size. 
+            </p>
+            <p>
+                As many traditional statistical methods break down in such setting, the goal of my research is to: 
+                (1) develop specialized machine learning methods that leverage potential structure in the data, 
+                which can improve predictive power and model interpretability, and 
+                (2) design and implement scalable (numerical) optimization algorithms to address data dimensionality.
+            </p>
+            <p>
+                <!--For additional information about my research, please visit my <a href="research.php">research page</a> for a list of my publications.-->
+            </p>
+        </div>
+        <div class="col-md-4 col-xs-5"><img src="img/sparse-brain.png" alt="Brain Connectivity" 
+                                   class="img-rounded " width="250px" 
+                                   style="position:relative; top:0px;"></div>
+    </div>
+    
 <h2>Publications</h2>
 <ul>
     <li>
@@ -38,4 +63,13 @@
     <li><em>Michigan Student Symposium for Interdisciplinary Statistical Sciences</em>, University of Michigan, Ann Arbor, MI, April 6, 2012.
 </ul>
 
+<h2>Research Notes</h2>
+Some snapshots of my <a href="notes/FL-OCP1-Linearized-ADMM.pdf" target="_blank">research notes</a> 
+to give an idea of the way I think.
+<!--<h1>h1</h1>
+<h2>h2</h2>
+<h3>h3</h3>
+<h4>h4</h4>
+<h5>h5</h5>
+<h6>h6</h6>-->
 <?php include('php-parts/footer.php'); ?>
