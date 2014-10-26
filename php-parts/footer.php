@@ -1,8 +1,5 @@
                 <!--<hr/>-->
-                <div class="tak-footer">&copy; Takanori Watanabe 2014
-                <!--!!! TODO: too much horizontal spacing - fix later!!! -->
-                <!-- Replaced this with social media icons -->
-            </div>
+                <div class="tak-footer">&copy; Takanori Watanabe 2014</div>            
         </div><!-- /.container -->
         
         <!-- Bootstrap core JavaScript -->
@@ -17,6 +14,6 @@
 		  ga('send', 'pageview');
 
         </script>      
-    </div> <!-- For div#background  -->
+    <!--</div>  For div#background  -->
     </body>
 </html>

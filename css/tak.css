@@ -11,9 +11,10 @@
     margin-right: auto;
     color: #777;
     padding-top:15px;
-    padding-bottom:15px;
+    padding-bottom:0px;
     border-top: 1px solid #ccc;
     margin-top: 40px;
+    margin-bottom:0px;
 }
 
 /* ========================================================================== */
@@ -22,18 +23,28 @@ http://stackoverflow.com/questions/10166961/rounding-corners-on-the-background
 */
 /* ========================================================================== */
 body {
-    border-radius: 20px; /* future proofing */
+    border-radius: 10px; /* future proofing */
     border: 0px;
     /*background:#BEC3C6 url(../img/bg.jpg) repeat-x;*/
     background: white;
     padding: 0px 0px 0px 0px;
-    width:900px; /* should match "max-wdith" in the container waaay...below...should learn sass in the future... */
+    width:920px; /* should match "max-wdith" in .container (should learn sass in the future)... */
     /*height: 600px;  optional */
     margin: 0 auto;
     /*background: #fff url(path to non-tiled image) no-repeat center scroll;  optional*/ 
     /*http://www.webdeveloper.com/forum/showthread.php?250519-Background-Color-outside-body-margin*/
 }
+.tak-main-body {
+  /*padding: -10px 15px;*/
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: justify;
+  margin-left: 18px;
+  margin-right: 12px;  
+}
+
 html { 
+    padding: 20px 0px 40px 0px;
     background:#BEC3C6 url(../img/bg.jpg) repeat-x;
 }
 
@@ -101,14 +112,7 @@ ul.social li{
   }
 }
 
-.tak-main-body {
-  /*padding: -10px 15px;*/
-  padding-top: 0px;
-  padding-bottom: 0px;
-  text-align: justify;
-  margin-left: 8px;
-  margin-right: 8px;  
-}
+
 div.navbar.navbar-inverse.navbar-top{
   border-radius: 10px;
 }
@@ -148,7 +152,7 @@ mark {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 900px;
+    max-width: 920px;
   }
 }
 .container-narrow > hr {

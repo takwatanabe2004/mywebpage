@@ -22,7 +22,7 @@
     </head>
     
     <body>
-        <div id="background">
+        <!--<div id="background">-->
     <div class="container">
         
         <?php // include('navbar-white.php'); ?>
