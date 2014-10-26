@@ -7,7 +7,8 @@
     
     <div class="row" style="padding-bottom: 10px">
         <div class="col-md-8 col-xs-7">
-            <h2>About me</h2>
+            <!--<h2>About me</h2>-->
+            <br/>
         <p>
             <strong>Graduate Student Research Assistant</strong><br/>
             <strong>Electrical Engineering and Computer Science Department</strong><br/>
