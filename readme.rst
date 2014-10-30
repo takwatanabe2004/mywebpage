@@ -1,4 +1,7 @@
+`[Parent Directory] <./>`_
 
+.. contents:: **Table of Contents**
+    :depth: 2
 
 `[Parent Directory] <./>`_
 
