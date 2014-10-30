@@ -1,4 +1,10 @@
-# My Personal Webpage 
+
+
+`[Parent Directory] <./>`_
+
+####################
+My Personal Webpage 
+####################
 <a href="http://takwatanabe.me" target="_blank">takwatanabe.me</a>  
 
 - **Why?** &mdash; since the <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">old layout</a> of my webpage looked boring.
