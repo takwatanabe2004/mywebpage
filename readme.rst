@@ -5,7 +5,7 @@
 ####################
 My Personal Webpage 
 ####################
-<a href="http://takwatanabe.me" target="_blank">takwatanabe.me</a>  
+takwatanabe.me
 
 - **Why?** &mdash; since the <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">old layout</a> of my webpage looked boring.
 - wanted to pick up on the likes of jquery and php
