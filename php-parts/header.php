@@ -9,34 +9,33 @@
 
         <title>Takanori Watanabe</title>
 
-        <!-- Bootstrap core CSS -->
-        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
 
         <!--my (tak) stylesheet-->
         <link rel="stylesheet" type="text/css" href="css/justified-nav.css" />
         <link rel="stylesheet" type="text/css" href="css/tak.css" />
 
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
         <link rel="icon" href="img/blockm.gif">
     </head>
     
     <body>
         <!--<div id="background">-->
-    <div class="container">
-        
-        <?php // include('navbar-white.php'); ?>
-        <?php include('navbar-black.php'); ?>
+        <div class="container">
 
-<!--        <script>
-            $(document).ready(function(){
-                $('#tak-nav-bar>li').hover(
-                    function(){
-                        $(this).addClass('active');
-                    },
-                    function(){
-                        $(this).removeClass('active');
-                    }
-                );
-            });
-        </script>-->
+            <?php // include('navbar-white.php'); ?>
+            <?php include('navbar-black.php'); ?>
+
+            <!--<script>
+                $(document).ready(function(){
+                    $('#tak-nav-bar>li').hover(
+                        function(){
+                            $(this).addClass('active');
+                        },
+                        function(){
+                            $(this).removeClass('active');
+                        }
+                    );
+                });
+            </script>-->
