@@ -2,7 +2,7 @@
 <a href="http://takwatanabe.me" target="_blank">takwatanabe.me</a>
 
 ## Why?
-- Since the layout of my <a href="http://web.eecs.umich.edu/~takanori/index.html" target="_blank">old webpage</a> looked boring.
+- Since the layout of my <a href="http://web.eecs.umich.edu/~takanori/index_old.html" target="_blank">old webpage</a> looked boring.
 - Wanted to learn more about html-css-js framework, and also pick up on the likes of jquery and php
 
 ## To do list
