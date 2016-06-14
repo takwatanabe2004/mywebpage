@@ -7,7 +7,7 @@
         <meta name="description" content="Personal Webpage of Takanori Watanabe">
         <meta name="author" content="Takanori Watanabe">
 
-        <title>Takanori Watanabe</title>
+        <title>Takanori Watanabe (渡辺貴則) </title>
 
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
 
@@ -17,14 +17,13 @@
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>    
-        <link rel="icon" href="img/blockm.gif">
+        <link rel="icon" href="img/favicon-penn.ico">
     </head>
     
     <body>
         <!--<div id="background">-->
         <div class="container">
 
-            <?php // include('navbar-white.php'); ?>
             <?php include('navbar-black.php'); ?>
 
             <!--<script>

@@ -16,18 +16,13 @@
                         <img title="Github" src="img/social-media-icon/GitHub-Mark-120px-plus.png" height="30" />
                     </a>
                 </li>
-                <!--<li>
-                    <a href="https://www.facebook.com/takanori.watanabe.23" target="_blank" >
-                        <img title="Facebook" src="img/social-media-icon/facebook.png" height="30" />
-                    </a>
-                </li>-->
                 <li>
                     <a href="mailto:takanori@umich.edu" target="_top" >
                         <img title="takanori@umich.edu" src="./img/social-media-icon/email.png" height="30" />
                     </a>
                 </li>
             </ul>              
-            <h3 class="text-muted" style="font-size:200%">Takanori Watanabe</h3>
+            <h3 class="text-muted" style="font-size:200%">Takanori Watanabe (渡辺貴則) </h3>
         </div>
         <!-- begin navbar div -->
         <div class="navbar navbar-inverse navbar-top" role="navigation" style="position:relatve; top:-45px;">

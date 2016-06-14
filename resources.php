@@ -11,6 +11,18 @@
             document.title='Resources';
         </script>
 
+        <h2>Seminars at Penn</h2>
+        <ul>
+            <li><a href="https://statistics.wharton.upenn.edu/research/seminars-conferences/" target="_blank">
+                Wharton Statistics Seminars</a>
+            </li>
+            <li><a href="http://www.cis.upenn.edu/about-cis/events/" target="_blank">
+                Computer and Information Science (CIS) Seminars</a>
+            </li>            
+            <li><a href="http://www.ese.upenn.edu/about-ese/events/" target="_blank">
+                Electrical and Systems Engineering (ESE) Seminars</a>
+            </li>
+        </ul>        
         <h2>Reading Groups/Seminars at Michigan</h2>
         <ul>
             <!-- <li><a href="http://web.eecs.umich.edu/~cscott/smlrg/">Statistical Machine Learning Reading Group</a></li> -->
@@ -31,8 +43,8 @@
                     An article about the "impostor syndrome"</a></li>
             <li><a href="http://www-stat.wharton.upenn.edu/~buja/sci.pdf" target="_blank">
                     The Science of Scientific Writing</a>, by George D. Gopen and Judith A. Swan</li>
-            <li><a href="http://chronicle.com/article/10-Tips-on-How-to-Write-Less/124268" target="_blank">
-                    10 Tips on How to Write Less Badly</a></li>
+<!--             <li><a href="http://chronicle.com/article/10-Tips-on-How-to-Write-Less/124268" target="_blank">
+                    10 Tips on How to Write Less Badly</a></li> -->
             <li><a href="http://matt.might.net/articles/phd-school-in-pictures/" target="_blank">
                     The illustrated guide to a Ph.D.</a> &ndash; perfectly explained in pictures by 
                 <a href="http://matt.might.net/" target="_blank">Matt Might</a></li>
