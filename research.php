@@ -41,7 +41,7 @@
         </div>
         
         
-        <h2>PhD Dissertation (University of Michigan, 2015)</h2>
+        <h2>PhD Dissertation (University of Michigan &ndash; Ann Arbor, 2015)</h2>
         <ul>
             <li>Scalable Machine Learning Methods for Massive Biomedical Data Analysis 
                 [<a href="thesis-final.pdf" target="_blank">pdf</a>]

@@ -37,11 +37,12 @@
                     and <a href="https://github.com/takwatanabe2004" target="_blank">Github page</a>.
                 </p>
                 <p>
-                    Prior to joining Penn, I was a PhD candidate in the <a href="http://www.eecs.umich.edu/" target="_blank" >EECS department</a> 
-                    at the <a href="http://www.umich.edu" target="_blank">University of Michigan &ndash; Ann Arbor</a>, 
-                    where I conduct machine learning research under the supervision of Professor
+                    Prior to joining Penn, I worked as a Graduate Research Assistant in the <a href="http://www.eecs.umich.edu/" target="_blank" >EECS</a> department
+                    at the <a href="http://www.umich.edu" target="_blank">University of Michigan &ndash; Ann Arbor</a>, where I received my PhD degree in Electrical Engineering and Computer Science.
+                    During my time at Michigan, I conducted machine learning research under the supervision of Professor
                     <a href="http://web.eecs.umich.edu/~cscott/" target="blank">Clayton Scott</a> and 
 	               Professor <a href="http://sites.lsa.umich.edu/sripada/" target="_blank">Chandra Sripada</a>.
+                   I successfully defended my PhD on December, 2014.
                 </p>
                 <!--<p>My research interests include area such as: Machine Learning, Statistical Signal Processing, 
                 Large Scale Convex Optimization, Sparsity and Feature Selection, Functional Neuroimaging.</p>-->
