@@ -17,7 +17,7 @@
                 <br/>
                 <p>
                     <strong>Postdoctoral Research Fellow</strong><br/>
-                    <strong>Department of Radiology, Perelman School of Medicine</strong><br/>
+                    <strong>Perelman School of Medicine &ndash; Department of Radiology</strong><br/>
                     <!-- <strong>University of Michigan &ndash; Ann Arbor</strong><br/> -->
                     <strong>University of Pennsylvania</strong><br/>
                     <br/>

@@ -112,8 +112,8 @@
 
         <h3>Other old notes:</h3>
         <ul>
-            <li>Machine learning Reading group note [<a href="notes/ml-meeting-nov2015.pdf">pdf</a>]
-            </li>
+            <li>Notes prepared for Machine Learning Reading Group [<a href="notes/ml-meeting-nov2015.pdf">pdf</a>]</li>
+            <li>(more to come...)</li>
         </ul>
 	    
         <!--<h1>h1</h1>
