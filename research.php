@@ -54,7 +54,7 @@
                 <b>T. Watanabe</b>, B. Tunc, D. Parker, J. Kim, R. Verma, 
                 ``Label-Informed Non-negative Matrix Factorization with Manifold Regularization for Discriminative Subnetwork Detection,''
                   	Accepted to: <a href="http://miccai2016.org/">
-				<em>MICCAI</em></a>,
+				<em>Medical Image Computing & Computer Assisted Intervention</em></a>,
                 2016.
             </li>
             <li>

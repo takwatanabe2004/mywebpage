@@ -29,6 +29,9 @@
                 <li> EECS 598, &nbsp; Statistical Learning Theory            
                     (<a href="notes/598notes.pdf">notes</a>,
                      <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/index.html">course link</a>)</li>
+                <li> EECS 600, &nbsp; Function Space Methods for Systems Theory 
+                    (<a href="notes/600notes.pdf">notes</a>) (<em>not formally enrolled</em>)</br>
+                </li>    
                 <li> EECS 755, &nbsp; Advanced Topics in Image Reconstruction
                     (<a href="http://web.eecs.umich.edu/~fessler/course/755/index.html">course link</a>)</li>   
                 <li> BME 510, &nbsp;&nbsp;&nbsp; Medical Imaging Laboratory</li>
@@ -39,15 +42,10 @@
                 <li> STATS 610, Statistical Inference
                     (<a href="notes/610notes.pdf">notes</a>)</li>     
                    <!-- <br/> -->
-                <li> EECS 600, Function Space Methods for Systems Theory 
-                    (<a href="notes/600notes.pdf">notes</a>)<br/>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    (<em>was not formally enrolled for the course</em>)
-                </li>         
+     
         </ul>
 
-        <h3>Teaching &ndash; Graduate Student Instructor (University of Michigan)</h3>
+        <h2>Teaching &ndash; Graduate Student Instructor (University of Michigan)</h2>
         <ul>
             <li>
                 <b>Fall 2011</b> &ndash; Machine Learning (Graduate level course &ndash; 
