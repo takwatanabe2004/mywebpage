@@ -107,12 +107,18 @@
         </ul>
 
         <h2>Research Notes</h2>
-        Some snapshots of my <a href="notes/FL-OCP1-Linearized-ADMM.pdf" target="_blank">research notes</a> 
-        to give an idea of the way I think, and the typical <a href="notes/notes-2014.pdf" target="_blank">ideation process</a> in my research.
+        Some snapshots of my <a href="notes/notes-2014.pdf" target="_blank">research notes</a> 
+        to give an idea of the way I think, and the typical <a href="notes/FL-OCP1-Linearized-ADMM.pdf" target="_blank">ideation process</a> in my research.
 
         <h3>Other old notes:</h3>
         <ul>
-            <li>Notes prepared for Machine Learning Reading Group [<a href="notes/ml-meeting-nov2015.pdf">pdf</a>]</li>
+            <li>brainstorming... [<a href="notes/old-notes.pdf">pdf</a>]</li>
+            <li>Notes prepared for Machine Learning Reading Group 
+            [<a href="notes/ml-meeting-nov2015.pdf">pdf1</a>,
+             <a href="notes/smlrg-jain.pdf">pdf2</a>,
+             <a href="notes/smlrg-loh.pdf">pdf3</a>,
+             <a href="notes/smlrg-rnca.pdf">pdf4</a>]
+             </li>
             <li>(more to come...)</li>
         </ul>
 	    
