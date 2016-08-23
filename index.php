@@ -49,6 +49,32 @@
                 <!--<p><strong>Research Interests</strong>: Machine Learning, Statistical Signal Processing, 
                 Large Scale Convex Optimization, Sparsity and Feature Selection, Functional Neuroimaging.</p>-->
 
+
+
+            <h3>Personal (jumbled) Coding Notes</h3>
+            <ul>
+                <li><a href="https://wtak23.github.io/snippets/" target="_blank">My snippet book</a></li>
+                <li><a href="https://wtak23.github.io/coding_notes/" target="_blank">My coding note book</a></li>
+                <li>Personal <a href="https://wtak23.github.io/pyspark/" target="_blank">PySpark API</a> I created since I found the <a href="http://spark.apache.org/docs/latest/api/python/index.html">official API</a> hard to navigate</li>
+            </ul>
+
+            <h3>Teaching &ndash; Graduate Student Instructor (University of Michigan)</h3>
+            <ul>
+                <li>
+                    <b>Fall 2011</b> &ndash; Machine Learning (Graduate level course &ndash; 
+                    <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" target="_blank">course link</a>)
+                </li>
+                <li>
+                    <b>Fall 2014</b> &ndash; Machine Learning (Graduate level course &ndash; 
+                    <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f14/index.html" target="_blank">course link</a>)
+                </li>
+                <li>
+                    <b>Winter 2015</b> &ndash; Discrete Mathematics
+                    (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" target="_blank">topics covered</a>)
+                </li>
+            </ul>
+
+
             </div>
             <div class="col-md-4 col-xs-5">
                 <img src="img/profile.jpg" alt="Tak Watanabe" class="img-circle" 

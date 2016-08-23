@@ -50,6 +50,12 @@
                 <a href="http://matt.might.net/" target="_blank">Matt Might</a></li>
         </ul>
 
+        <h2>Personal Coding Notes</h2>
+        <ul>
+            <li><a href="https://wtak23.github.io/snippets/" target="_blank">My snippet book</a></li>
+            <li><a href="https://wtak23.github.io/coding_notes/" target="_blank">My coding note book</a></li>
+            <li>Personal <a href="https://wtak23.github.io/pyspark/" target="_blank">PySpark API</a> I created since I found the <a href="http://spark.apache.org/docs/latest/api/python/index.html">official API</a> hard to navigate</li>
+        </ul>
         <!-- ======================================================================= -->
         <!-- Include footer php -->
         <!-- ======================================================================= -->

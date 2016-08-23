@@ -12,13 +12,13 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://github.com/takwatanabe2004" target="_blank" >
+                    <a href="https://github.com/wtak23" target="_blank" >
                         <img title="Github" src="img/social-media-icon/GitHub-Mark-120px-plus.png" height="30" />
                     </a>
                 </li>
                 <li>
-                    <a href="mailto:takanori@umich.edu" target="_top" >
-                        <img title="takanori@umich.edu" src="./img/social-media-icon/email.png" height="30" />
+                    <a href="mailto:takanori[at]umich.edu" target="_top" >
+                        <img title="takanori[at]umich.edu" src="./img/social-media-icon/email.png" height="30" />
                     </a>
                 </li>
             </ul>              

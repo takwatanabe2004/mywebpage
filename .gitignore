@@ -7,3 +7,6 @@ separator/
 googlef*
 /nbproject
 ignore
+
+# donno why but started to automatically appear under my folders on the server...
+.svn
