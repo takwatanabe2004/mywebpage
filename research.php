@@ -44,8 +44,8 @@
         <h2>PhD Dissertation (University of Michigan &ndash; Ann Arbor, 2015)</h2>
         <ul>
             <li>Scalable Machine Learning Methods for Massive Biomedical Data Analysis 
-                [<a href="thesis-final.pdf" target="_blank">pdf</a>]
-                <!-- [<a href="thesis-draft.pdf" target="_blank">pdf</a>] -->
+                [<a href="thesis-final.pdf" >pdf</a>]
+                <!-- [<a href="thesis-draft.pdf" >pdf</a>] -->
             </li>
         </ul>
         <h2>Publications</h2>
@@ -107,8 +107,8 @@
         </ul>
 
         <h2>Research Notes</h2>
-        Some snapshots of my <a href="notes/notes-2014.pdf" target="_blank">research notes</a> 
-        to give an idea of the way I think, and the typical <a href="notes/FL-OCP1-Linearized-ADMM.pdf" target="_blank">ideation process</a> in my research.
+        Some snapshots of my <a href="notes/notes-2014.pdf" >research notes</a> 
+        to give an idea of the way I think, and the typical <a href="notes/FL-OCP1-Linearized-ADMM.pdf" >ideation process</a> in my research.
 
         <h3>Other old notes:</h3>
         <ul>

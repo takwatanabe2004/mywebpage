@@ -33,15 +33,15 @@
                     particularly for studying patterns in large and complicated biomedical datasets.
                     For additional information about my research, please visit my <a href="research.php">research page</a> or 
                     check out my
-                    <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank">Google Scholar entry</a>
-                    and <a href="https://github.com/wtak23" target="_blank">Github page</a>.
+                    <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" >Google Scholar entry</a>
+                    and <a href="https://github.com/wtak23" >Github page</a>.
                 </p>
                 <p>
-                    Prior to joining Penn, I worked as a Graduate Research Assistant in the <a href="http://www.eecs.umich.edu/" target="_blank" >EECS</a> department
-                    at the <a href="http://www.umich.edu" target="_blank">University of Michigan &ndash; Ann Arbor</a>, where I received my PhD degree in Electrical Engineering and Computer Science.
+                    Prior to joining Penn, I worked as a Graduate Research Assistant in the <a href="http://www.eecs.umich.edu/"  >EECS</a> department
+                    at the <a href="http://www.umich.edu" >University of Michigan &ndash; Ann Arbor</a>, where I received my PhD degree in Electrical Engineering and Computer Science.
                     During my time at Michigan, I conducted machine learning research under the supervision of Professor
                     <a href="http://web.eecs.umich.edu/~cscott/" target="blank">Clayton Scott</a> and 
-	               Professor <a href="http://sites.lsa.umich.edu/sripada/" target="_blank">Chandra Sripada</a>.
+	               Professor <a href="http://sites.lsa.umich.edu/sripada/" >Chandra Sripada</a>.
                    I successfully defended my PhD on December, 2014.
                 </p>
                 <!--<p>My research interests include area such as: Machine Learning, Statistical Signal Processing, 
@@ -54,26 +54,26 @@
             <h3>Personal (jumbled) Coding Notes</h3>
             <ul>
                 <li>
-                    [<a href="https://wtak23.github.io/snippets/" target="_blank">Snippet notebook</a>]
-                    [<a href="https://wtak23.github.io/coding_notes/" target="_blank">Coding notebook</a>]
-                    [<a href="https://wtak23.github.io/configs/" target="_blank">Computer-config notebook</a>]
+                    [<a href="https://wtak23.github.io/snippets/" >Snippet notebook</a>]
+                    [<a href="https://wtak23.github.io/coding_notes/" >Coding notebook</a>]
+                    [<a href="https://wtak23.github.io/configs/" >Computer-config notebook</a>]
                 </li>
-                <li>Personal <a href="https://wtak23.github.io/pyspark/" target="_blank">PySpark API</a> I created since I found the <a href="http://spark.apache.org/docs/latest/api/python/index.html">official API</a> hard to navigate</li>
+                <li>Personal <a href="https://wtak23.github.io/pyspark/" >PySpark API</a> I created since I found the <a href="http://spark.apache.org/docs/latest/api/python/index.html">official API</a> hard to navigate</li>
             </ul>
 
             <h3>Teaching &ndash; Graduate Student Instructor (University of Michigan)</h3>
             <ul>
                 <li>
                     <b>Fall 2011</b> &ndash; Machine Learning (Graduate level course &ndash; 
-                    <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" target="_blank">course link</a>)
+                    <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" >course link</a>)
                 </li>
                 <li>
                     <b>Fall 2014</b> &ndash; Machine Learning (Graduate level course &ndash; 
-                    <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f14/index.html" target="_blank">course link</a>)
+                    <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f14/index.html" >course link</a>)
                 </li>
                 <li>
                     <b>Winter 2015</b> &ndash; Discrete Mathematics
-                    (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" target="_blank">topics covered</a>)
+                    (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" >topics covered</a>)
                 </li>
             </ul>
 
@@ -88,7 +88,7 @@
 <!--         <h3>Dissertation (draft)</h3>
         <ul>
             <li>Scalable Machine Learning Methods for Massive Biomedical Data Analysis 
-                [<a href="thesis-draft.pdf" target="_blank">pdf</a>]
+                [<a href="thesis-draft.pdf" >pdf</a>]
             </li>
         </ul>
         
@@ -96,23 +96,23 @@
         <ul>
             <li>
                 <b>Fall 2011</b> &ndash; Machine Learning (Graduate level course &ndash; 
-                <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" target="_blank">course link</a>)
+                <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" >course link</a>)
             </li>
             <li>
                 <b>Fall 2014</b> &ndash; Machine Learning (Graduate level course &ndash; 
-                <a href="http://web.eecs.umich.edu/~cscott/eecs545f14/index.html" target="_blank">course link</a>)
+                <a href="http://web.eecs.umich.edu/~cscott/eecs545f14/index.html" >course link</a>)
             </li>
             <li>
                 <b>Winter 2015</b> &ndash; Discrete Mathematics
-                (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" target="_blank">topics covered</a>)
+                (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" >topics covered</a>)
             </li>
         </ul>
  -->
 <!--         <p style="font-size:115%"><b><mark>News:</mark></b> 
-			I will begin working as a postdoc at the <a href="http://www.upenn.edu" target="_blank">University of Pennsylvania</a> starting May 2015.  <b>Very excited!!!</b>
+			I will begin working as a postdoc at the <a href="http://www.upenn.edu" >University of Pennsylvania</a> starting May 2015.  <b>Very excited!!!</b>
 		.</p>     -->
 
-        <!--(Note: my <a href="index.html" target="_blank">old website</a> will no longer be maintained)-->
+        <!--(Note: my <a href="index.html" >old website</a> will no longer be maintained)-->
 
         <!-- ======================================================================= -->
         <!-- Include footer php -->

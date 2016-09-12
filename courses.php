@@ -49,15 +49,15 @@
         <ul>
             <li>
                 <b>Fall 2011</b> &ndash; Machine Learning (Graduate level course &ndash; 
-                <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" target="_blank">course link</a>)
+                <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f11/index.html" >course link</a>)
             </li>
             <li>
                 <b>Fall 2014</b> &ndash; Machine Learning (Graduate level course &ndash; 
-                <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f14/index.html" target="_blank">course link</a>)
+                <a href="http://web.eecs.umich.edu/~cscott/past_courses/eecs545f14/index.html" >course link</a>)
             </li>
             <li>
                 <b>Winter 2015</b> &ndash; Discrete Mathematics
-                (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" target="_blank">topics covered</a>)
+                (<a href="https://www.eecs.umich.edu/eecs/academics/courses/eecs-203.html" >topics covered</a>)
             </li>
         </ul>
 
