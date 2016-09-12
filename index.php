@@ -34,7 +34,7 @@
                     For additional information about my research, please visit my <a href="research.php">research page</a> or 
                     check out my
                     <a href="http://scholar.google.com/citations?hl=en&user=tGMrt6sAAAAJ" target="_blank">Google Scholar entry</a>
-                    and <a href="https://github.com/takwatanabe2004" target="_blank">Github page</a>.
+                    and <a href="https://github.com/wtak23" target="_blank">Github page</a>.
                 </p>
                 <p>
                     Prior to joining Penn, I worked as a Graduate Research Assistant in the <a href="http://www.eecs.umich.edu/" target="_blank" >EECS</a> department
@@ -53,8 +53,11 @@
 
             <h3>Personal (jumbled) Coding Notes</h3>
             <ul>
-                <li><a href="https://wtak23.github.io/snippets/" target="_blank">My snippet book</a></li>
-                <li><a href="https://wtak23.github.io/coding_notes/" target="_blank">My coding note book</a></li>
+                <li>
+                    [<a href="https://wtak23.github.io/snippets/" target="_blank">Snippet notebook</a>]
+                    [<a href="https://wtak23.github.io/coding_notes/" target="_blank">Coding notebook</a>]
+                    [<a href="https://wtak23.github.io/configs/" target="_blank">Computer-config notebook</a>]
+                </li>
                 <li>Personal <a href="https://wtak23.github.io/pyspark/" target="_blank">PySpark API</a> I created since I found the <a href="http://spark.apache.org/docs/latest/api/python/index.html">official API</a> hard to navigate</li>
             </ul>
 
